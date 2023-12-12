@@ -1,6 +1,10 @@
 # C_Course_Book_Exercises
 This repository contains the solutions of the exercises in the book that was used during my first semester course, called "Structured Programming" (code 5B5Y) from the department of Electrical &amp; Computer Engineering in Democritus University of Thrace. The book used is named "Programming guide with C", first edition, Karakos Publications 2017.
 
+![image](https://github.com/aristosp/C_Course_Book_Exercises/assets/62808962/a990e410-2707-4d23-82ad-8a97c071df0e)
+
+
+
 # Contents
 
 * Chapter 1: Get to know C
