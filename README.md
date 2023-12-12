@@ -3,7 +3,7 @@ This repository contains the solutions of the exercises in the book that was use
 
 ![image](https://github.com/aristosp/C_Course_Book_Exercises/assets/62808962/a990e410-2707-4d23-82ad-8a97c071df0e)
 
-
+<img src="http://karakos.gr/book1.jpg" width="150" height="280">
 
 # Contents
 
